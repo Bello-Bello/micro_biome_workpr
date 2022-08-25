@@ -1,5 +1,4 @@
 sample-id	forward-absolute-filepath	reverse-absolute-filepath
-EG10D100R2	$PWD/data/EG10D100R2_16S_R1.fastqz	$PWD/data/EG10D100R2_16S_R2.fastqz
 SRR6000872	$PWD/data/SRR6000872_pass_1.fastq.gz	$PWD/data/SRR6000872_pass_2.fastq.gz
 SRR6000875	$PWD/data/SRR6000875_pass_1.fastq.gz	$PWD/data/SRR6000875_pass_2.fastq.gz
 SRR6000876	$PWD/data/SRR6000876_pass_1.fastq.gz	$PWD/data/SRR6000876_pass_2.fastq.gz
